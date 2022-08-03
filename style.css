@@ -1,0 +1,370 @@
+body{
+    background-color: black;
+    color: white;
+    /* font-family: 'Roboto Mono', monospace; */
+    font-family: 'Share Tech Mono',monospace;
+}
+
+.mr-5{
+    color: white;
+}
+
+.card-head{
+    margin-bottom: 9px;
+    font-size: 20px;
+}
+
+.main{
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.main-heading{
+    font-size: 70px;
+    color: white;
+    margin-top: 80px;
+    margin-bottom: 20px;
+}
+.main-para{
+    font-size: 30px;
+    color: green;
+}
+
+.Contact{
+    font-size: 28px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.links{
+    color: green;
+}
+
+.links:hover{
+    color: darkgreen;
+}
+.text{
+    text-align: left;
+    margin-left: 100px;
+}
+
+.about{
+    font-size: 30px;
+    margin-left: 10px;
+    margin-bottom: 30px;
+}
+
+.plus1{
+    margin-left: 560px;
+    font-size: 25px;
+}
+
+.plus2{
+    margin-left: 580px;
+    font-size: 25px;
+}
+
+.plus3{
+    margin-left: 735px;
+    font-size: 25px;
+    
+}
+
+.plus4{
+    margin-left: 735px;
+    font-size: 25px;
+}
+
+.plus5{
+    margin-left: 735px;
+    font-size: 25px;
+}
+
+.plus6{
+    margin-left: 540px;
+    font-size: 25px;
+}
+
+.plus7{
+    margin-left: 730px;
+    font-size: 25px;
+}
+
+.content1{
+    width: 80px;
+    margin-left: 150px;
+    margin-right: 60px;
+}
+
+.head{
+    font-size: 30px;
+    margin-bottom: 27px;
+    margin-top: 30px;
+}
+
+.img2{
+    margin-left: 130px;
+}
+
+.content2{
+    
+    margin-right: 160px;
+}
+.panel{
+    font-size: 15px;
+}
+
+.registration{
+    margin-left: 0px;
+    margin-bottom: 100px;
+}
+.mailarea{
+    display: flex;
+}
+.mail-box{
+    margin-top: 5px;
+    margin-right: 10px;
+}
+.bi{
+    margin: 5px;
+}
+
+.icons1{
+    color: green;
+}
+
+.icons1:hover{
+    color: darkgreen
+}
+
+.callarea{
+    display: flex;
+}
+
+.iconsarea{
+    display: flex;
+}
+
+.reg{
+    font-size: 16px;
+    line-height: 2;
+    margin-left: 180px;
+}
+
+ul.a{
+    list-style-type: disc;
+}
+
+hr{
+    width: 80%;
+    
+}
+.line{
+    margin-left: 180px;
+}
+
+.contact{
+    margin-left: 180px;
+    margin-bottom: 80px;
+}
+
+.foot-para{
+    margin-left: 440px;
+    font-size: 15px;
+    margin-bottom: 50px;
+}
+
+.side{
+    display: flex;
+}
+
+.para{
+    font-size: 15px;
+}
+
+
+.rounded:hover{
+     filter: brightness(150%);
+}
+
+.verticalLine {
+    border-right: 4px solid white;
+    height: 860px;
+    margin-right: 50%;
+    position: relative;
+    margin-bottom: 100px;
+  }
+
+  .navline{
+    border-right: 5px solid green;
+    height: 16px;
+    margin-right: 10px;
+    margin-top: 3px;
+  }
+
+  .navline:hover{
+    border-right: 5px solid darkgreen;
+  }
+
+  .headline{
+    border-right: 6px solid green;
+    height: 30px;
+    margin-top: 7px;
+  }
+
+  .headline:hover{
+    border-right: 6px solid darkgreen;
+  }
+
+  .registline{
+    margin-left: 0;
+  }
+
+  .headside{
+    display: flex;
+    margin-left: 150px;
+    margin-right: 0px;
+  }
+
+  .dot {
+    height: 25px;
+    width: 25px;
+    background-color: green;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 49%;
+  
+   
+  }
+
+  .dot1{
+    position: absolute;
+    top: 1600px;
+  }
+
+  .dot2{
+    position: absolute;
+    top: 1800px;
+  }
+
+  .dot3{
+    position: absolute;
+    top: 2000px;
+  }
+
+  .dot4{
+    position: absolute;
+    top: 2200px;
+  }
+  .card{
+    width: 400px;
+    border:1px solid white;
+    border-radius: 10px;
+    padding: 10px;
+  }
+
+  .card-left{
+    margin-left: 235px;
+  }
+
+  .card-right{
+    margin-left: 700px;
+  }
+
+  .card1{
+    position: absolute;
+    top: 1550px;
+  }
+
+  .card2{
+    position: absolute;
+    top: 1750px;
+  }
+
+  .card3{
+    position: absolute;
+    top: 1950px;
+  }
+
+  .card4{
+    position: absolute;
+    top: 2150px;
+  }
+
+  .shedule{
+    margin-left: 150px;
+    font-size: 30px;
+    margin-bottom: 60px;
+  }
+
+  .heading{
+    margin-top: 50px;
+  }
+ 
+
+  
+
+
+
+
+  
+
+
+
+
+
+
+
+
+.main{
+    margin-left: 100px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+  .accordion {
+    background-color: #0d1a00;
+    color: white;
+    cursor: pointer;
+    padding: 10px;
+    width: 60%;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+    margin-bottom: 10px;
+    margin-left: 230px;
+    margin-right: 150px;
+  }
+  
+  /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+  .active, .accordion:hover {
+    background-color:  #0d1a00;
+  }
+  
+  /* Style the accordion panel. Note: hidden by default */
+  .panel {
+    padding: 0 18px;
+    background-color:  #0d1a00;
+    display: none;
+    overflow: hidden;
+    margin-bottom: 10px;
+    width: 60%;
+    margin-left: 230px;
+    margin-right: 150px;
+  }
+
+
+  .FAQ{
+    margin-bottom: 100px;
+  }
+
+  .faq{
+    font-size: 30px;
+    margin-left: 200px;
+    margin-bottom: 60px;
+  }
+
+
+
+
